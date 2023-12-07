@@ -22,5 +22,10 @@ Ejecución:
 
 Luego, antes de ejecutar el proyecto, se recomienda ejecutar en el terminal de comandos, la instrucción dotnet restore, con el fin de que se descarguen posibles paquetes que no fueron restaurados automáticamente.
 
-Luego se puede realizar la ejecución y el consumo de cada uno de los Endpoint del API Rest según las especificaciones de la prueba.
+Luego se puede realizar la ejecución. Se debe realizar la autenticación al API con las siguientes credentiales:
+
+Usuario es: prxTest
+Contraseña: prxTestpwd
+
+El consumo de cada uno de los Endpoint del API Rest según las especificaciones de la prueba.
 
