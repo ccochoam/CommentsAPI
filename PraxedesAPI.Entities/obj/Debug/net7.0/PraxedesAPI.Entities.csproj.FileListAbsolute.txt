@@ -1,0 +1,11 @@
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\bin\Debug\net7.0\PraxedesAPI.Entities.deps.json
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\bin\Debug\net7.0\PraxedesAPI.Entities.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\bin\Debug\net7.0\PraxedesAPI.Entities.pdb
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\PraxedesAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\PraxedesAPI.Entities.AssemblyInfoInputs.cache
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\PraxedesAPI.Entities.AssemblyInfo.cs
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\PraxedesAPI.Entities.csproj.CoreCompileInputs.cache
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\PraxedesAPI.Entities.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\refint\PraxedesAPI.Entities.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\PraxedesAPI.Entities.pdb
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Entities\obj\Debug\net7.0\ref\PraxedesAPI.Entities.dll

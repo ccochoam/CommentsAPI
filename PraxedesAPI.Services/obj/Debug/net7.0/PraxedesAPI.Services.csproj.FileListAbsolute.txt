@@ -1,0 +1,17 @@
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Services.deps.json
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Services.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Services.pdb
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Data.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Entities.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Data.pdb
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\bin\Debug\net7.0\PraxedesAPI.Entities.pdb
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.csproj.AssemblyReference.cache
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.AssemblyInfoInputs.cache
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.AssemblyInfo.cs
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.csproj.CoreCompileInputs.cache
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.csproj.CopyComplete
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\refint\PraxedesAPI.Services.dll
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\PraxedesAPI.Services.pdb
+D:\proyectos\Praxedes\PraxedesAPI\PraxedesAPI.Services\obj\Debug\net7.0\ref\PraxedesAPI.Services.dll
