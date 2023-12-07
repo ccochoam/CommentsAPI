@@ -1,9 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+using Microsoft.Extensions.Configuration;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace PraxedesAPI.Services.BasicAuth
 {
@@ -11,14 +8,18 @@ namespace PraxedesAPI.Services.BasicAuth
     {
         private readonly RequestDelegate _next;
         private readonly string _relm;
-        public BasicAuthHandler(RequestDelegate next, string relm) 
+        private readonly IConfiguration _configuration;
+        public BasicAuthHandler(RequestDelegate next, string relm, IConfiguration configuration) 
         {
             _next = next;
             _relm = relm;
+            _configuration = configuration;
         }
 
         public async Task InvokeAsync(HttpContext httpContext)
         {
+            string? user = _configuration.GetSection("BasicAuth").GetSection("Username").Value;
+            string? pass = _configuration.GetSection("BasicAuth").GetSection("Password").Value;
             if (!httpContext.Request.Headers.ContainsKey("Authorization"))
             {
                 httpContext.Response.StatusCode = 401;
@@ -32,7 +33,7 @@ namespace PraxedesAPI.Services.BasicAuth
             string[] uidpwd = credentials.Split(':');
             var uid = uidpwd[0].Trim();
             var pwd = uidpwd[1].Trim();
-            if (uid != "prxTest" || pwd != "prxTestpwd")
+            if (uid != user || pwd != pass)
             {
                 httpContext.Response.StatusCode = 401;
                 await httpContext.Response.WriteAsync("Unauthorized");

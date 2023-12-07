@@ -42,6 +42,7 @@ builder.Services.AddSwaggerGen(c =>
                 }
             });
 });
+builder.Configuration.GetConnectionString("BasicAuth");
 
 builder.Services.AddScoped<ICommentService, CommentService>();
 builder.Services.AddScoped<ICommentRepository, CommentRepository>();
